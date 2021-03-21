@@ -1,4 +1,4 @@
-MIT - Beamer Presentation Template
+PKT Mass Eta - Beamer Presentation Template
 ==================================
 
 LaTeX Beamer presentation template derived from Andreas Kloeckner's brown-beamer template:
@@ -12,16 +12,16 @@ Dependencies:
 
 Install:
 --------
-Install is simply downloading the code from github. Here we install mit-beamer to $HOME/mit-beamer::
+Install is simply downloading the code from github. Here we install pkt-beamer to $HOME/pkt-beamer::
 
     $ cd $HOME
-    $ git clone http://github.com/jtriley/mit-beamer.git
+    $ git clone https://github.com/pktmasseta/pkt-beamer.git
 
 Generating the presentation:
 ----------------------------
-1. Customize mit-beamer/slides.tex to your liking::
+1. Customize pkt-beamer/slides.tex to your liking::
 
-    $ vim $HOME/mit-beamer/slides.tex
+    $ vim $HOME/pkt-beamer/slides.tex
 
 2. Run pdflatex to generate a presentation PDF (twice if needed)::
 
